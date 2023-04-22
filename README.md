@@ -1,7 +1,10 @@
 # implementing-CRM-for-result-tracking-of-a-candidate-with-internal-marks
 
 Trail head profile Public URL
-Team Lead - https://trailblazer.me/id/thilaga2002
-Team Member 1- https://trailblazer.me/id/vinothilaga23
-Team Member 2- https://trailblazer.me/id/varsh123
-Team Member 3- https://trailblazer.me/id/anusiya2002
+ Team  leader       
+ snega.M- https://trailblazer.me/id/snegm4           
+ Team member  
+ Krishnapriya.S- https://trailblazer.me/id/krishnapriya2002           
+ Bharathipriya.A- https://trailblazer.me/id/bharish21 
+ Sharmila.G- https://trailblazer.me/id/ssharmila29 
+ 
